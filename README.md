@@ -1,4 +1,4 @@
-## Privacy Policy
+## Privacy Policy for soapy app
 
 Nouze built the Soapy app as a Free app. This SERVICE is provided by Nouze at no cost and is intended for use as is.
 
